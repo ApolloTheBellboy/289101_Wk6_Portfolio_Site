@@ -1,0 +1,91 @@
+* {
+    outline: 1px dotted yellow;
+}
+
+body{
+    background-color: #25283d;
+    margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.nav{
+    background-color: #25283d;
+    padding: 50px 100px;
+    word-spacing: 2em;
+    text-align: left;
+    font-size: 3em;
+    border-bottom: 10px solid #ae3232;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    color: #f9f9ed;
+    text-decoration: none;
+}
+
+.selected{
+    color: #ae3232;
+}
+
+.sona{
+    max-height: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+
+.header, .mainb{
+    background-color: #6c809a;
+}
+
+.block{
+    width:2600px;
+    margin-left: auto;
+    margin-right: auto;
+    display:grid;
+    grid-template-columns: 60% 50%;
+}
+
+.buttons{
+    background-color: #49546c;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px;
+    margin-bottom: 50px;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    width: 1600px;
+}
+
+.buttons h1{
+    font-size: 5em;
+    margin: 50px;
+    color: #25283d
+}
+
+.buttons p{
+    font-size: 2.4em;
+    margin-left: 50px;
+    color: #c1ccdb
+}
+
+.text{
+    grid-row: 1/3;
+    
+}
+
+.buttons a{
+    background-color: #25283d;
+    width: auto;
+    margin: 50px;
+    font-size: 4em;
+    font-family: 'Montserrat', sans-serif;
+    padding: 50px;
+    color:#c1ccdb;
+    text-align: center;
+}
+
+.selection a{
+    background-color: #7a1b30;
+    
+}
