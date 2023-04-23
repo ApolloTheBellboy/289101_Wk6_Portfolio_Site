@@ -12,14 +12,14 @@ a{
 }
 
 h1{
-    font-size: 10em;
+    font-size: 4em;
     margin: 50px;
     color: #25283d;
     font-family: 'Philosopher', sans-serif;
 }
 
 p{
-    font-size: 4em;
+    font-size: 2em;
     margin-left: 50px;
     margin-right: 50px;
     color: #c1ccdb;
@@ -30,7 +30,7 @@ p{
     padding: 50px 100px;
     word-spacing: 2em;
     text-align: left;
-    font-size: 5em;
+    font-size: 2em;
     border-bottom: 10px solid #ae3232;
     font-family: 'Raleway', sans-serif;
 }
@@ -53,10 +53,7 @@ p{
     background-color: #25283d;
 }
 
-.short{
-    position: absolute;
-    bottom: 0px;
-}
+
 /*Text Pages*/
 
 .header, .mainb{
@@ -64,7 +61,7 @@ p{
 }
 
 h2{
-    font-size: 8em;
+    font-size: 4em;
     margin: 50px;
     color:#9fadc0;
     font-family: 'Raleway', sans-serif;
@@ -107,7 +104,7 @@ h2{
 .sona{
     width: auto;
     height: 100%;
-    max-height: 1800px;
+    max-height: 1000px;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
@@ -126,7 +123,7 @@ h2{
     background-color: #25283d;
     width: auto;
     margin: 50px;
-    font-size: 500%;
+    font-size: 3em;
     font-family: 'Raleway', sans-serif;
     font-weight: 200;
     padding: 60px;
@@ -137,7 +134,7 @@ h2{
 
 .selection a{
     background-color: #7a1b30;
-    font-size: 6em;
+    font-size: 3em;
     padding: 40px;
     margin: 50px;
     
@@ -156,7 +153,8 @@ h2{
 }
 
 .mainb img{
-    height: 2000px;
+    
+    height: 1000px;
     margin: 20px;
     
 }
